@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+    <item android:drawable="@drawable/d20_start" android:duration="250" />
+    <item android:drawable="@drawable/d20_3" android:duration="150" />
+    <item android:drawable="@drawable/d20_15" android:duration="200" />
+    <item android:drawable="@drawable/d20_2" android:duration="150" />
+    <item android:drawable="@drawable/d20_20" android:duration="150" />
+    <item android:drawable="@drawable/d20_1" android:duration="200" />
+    <item android:drawable="@drawable/d20_14" android:duration="150" />
+</animation-list>
