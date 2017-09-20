@@ -77,16 +77,6 @@ public class MainActivity extends AppCompatActivity {
         rollAll.setOnClickListener(rollAllListener);
     }
 
-   /* @Override
-    protected void onSaveInstanceState(Bundle outState) {
-        super.onSaveInstanceState(outState);
-        int i = 0;
-        for (String s : lastRoll) {
-            outState.putString(Integer.toString(i++),s);
-        }
-    }*/
-
-
     public void startAnimation(View view) {
         ImageView img = (ImageView) view;
         String tag = (String) img.getTag();
